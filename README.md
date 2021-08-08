@@ -2,6 +2,8 @@
 
 
 [Course project for CSL2060 Software Engineering](https://project-deploy-2b18f.web.app) click to open website
+Team Member : Abhinav Kashyap ( B19CSE002 )
+              Abhishek Jamhoriya ( B19CSE003 )
 
 ## About
 
