@@ -46,10 +46,7 @@ You can contact us by any of the below method
 ![running tests](image/Screenshot%20(338).png)
 
 
-### `Profile page`
 
-Here user can create his profile.
-![running tests](image/Screenshot%20(339).png)
 
 
 ### `Encryption process`
